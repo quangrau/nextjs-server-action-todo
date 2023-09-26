@@ -15,7 +15,7 @@ https://nextjs-server-action-todo.vercel.app/
 
 
 ## Screenshot
-<img src="./screenshot.png">
+<img src="./screenshot.png" alt="screenshot" width="480px">
 
 
 
