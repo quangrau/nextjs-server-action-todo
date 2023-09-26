@@ -11,7 +11,7 @@ export default async function Home() {
     .sort((a, b) => a.id - b.id);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="flex min-h-screen flex-col items-center justify-between p-8 md:p-24">
       <div className="z-10 max-w-md w-full items-center font-mono text-sm">
         <h1 className="w-full text-center text-3xl font-bold tracking-wide">
           TODO

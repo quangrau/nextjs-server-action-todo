@@ -1,4 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## What is this?
+
+Just another `Todo` app using [Next.js](https://nextjs.org/), [@vercel KV](https://vercel.com/docs/storage/vercel-kv/quickstart) and [Server Actions](https://nextjs.org/docs/app/api-reference/functions/server-actions)
+
+
+Things I learnt from this project:
+- @vercel KV
+- Server Actions in Next.JS
+- `experimental_useFormStatus`
+- `experimental_useOptimistic`
+
+
+## Live demo:
+https://nextjs-server-action-todo.vercel.app/
+
+
+## Screenshot
+<img src="./screenshot.png">
+
+
 
 ## Getting Started
 
